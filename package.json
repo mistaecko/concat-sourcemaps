@@ -1,0 +1,33 @@
+{
+  "name": "concat-sourcemaps",
+  "description": "concat for source files with associated source maps",
+  "main": "src/concat-sourcemaps.js",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": {
+    "type": "BSD",
+    "url": "https://github.com/mistaecko/concat-sourcemaps/blob/master/LICENSE-BSD"
+  },
+  "contributors": [
+    {
+      "name": "Werner Loibl",
+      "email": "werner@gamua.com",
+      "url": "https://twitter.com/mistaecko"
+    }
+  ],
+  "maintainers": [],
+  "dependencies": {
+    "source-map": "~0.1.30"
+  },
+  "readme": " ",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mistaecko/concat-sourcemaps"
+  },
+  "bugs": {
+    "url": "https://github.com/mistaecko/concat-sourcemaps/issues"
+  }
+}
